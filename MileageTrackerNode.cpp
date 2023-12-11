@@ -1,6 +1,6 @@
 //Copyright 2022
 //
-// Created by jinesh patel on 2/14/22.
+// Created by Arya Lotwala on 2/14/22.
 //
 
 #include "MileageTrackerNode.h"
